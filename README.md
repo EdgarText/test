@@ -20,7 +20,7 @@ Vidio no YouTube: https://youtu.be/qnBkltFeQMU
 
 ![W3Schools Tryit Editor - Google Chrome 28_10_2023 20_00_27](https://github.com/EdgarText/test/assets/146493633/222a6b63-6982-4931-b65b-f49e0ac48cf1)
 
-(video privado, necessário usar o link)
+(video privado, necessário usar o link).
 # Tecnologias utilizadas
 
 ## Aplicativo e Linguagem
